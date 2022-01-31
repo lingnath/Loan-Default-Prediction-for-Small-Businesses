@@ -1,6 +1,6 @@
 # Loan-Default-Predictions-for-American-Small-Businesses
 
-The data used can be collected from the following link below
+The data used can be collected from the following link below <br>
 https://www.kaggle.com/mirbektoktogaraev/should-this-loan-be-approved-or-denied
 
 If the dataset and/or link no longer exists, please contact me at nathanling9730@gmail.com and I will send it to you accordingly.
