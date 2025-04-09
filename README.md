@@ -12,3 +12,8 @@ In a high level, the project consists of the following steps:<br>
 2. Exploratory data analysis (EDA), which consists of understanding statistical trends and patterns.<br>
 3. Various machine learning models were developed and tested, with the goal of predicting loan defaults for the various loans in the dataset. The best performing model will be selected.<br>
 4. The best performing model will be dissected to interpret what the model is doing and which factors are significant in predicting loan defaults.
+
+# Setup
+This was run in Python 3.8.8. In this folder is a requirements.txt file, which contains all the libraries needed.
+Run pip3 install -r requirements.txt
+You should now be able to run the jupyter notebook
