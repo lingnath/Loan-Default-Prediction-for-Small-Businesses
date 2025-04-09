@@ -15,5 +15,16 @@ In a high level, the project consists of the following steps:<br>
 
 # Setup
 This was run in Python 3.8.8. In this folder is a requirements.txt file, which contains all the libraries needed.
-Run pip3 install -r requirements.txt
+Run the following in your command line:
+1. sudo apt-get update
+3. sudo apt-get install python3.8 -y
+4. sudo apt-get install pip -y
+5. sudo apt install python3.8-venv
+6. python -m venv venv
+7. source venv/bin/activate
+8. pip install -r requirements.txt
+9. pip install notebook==6.3.0
+10. jupyter notebook
+11. Once you run "jupyter notebook", click on the link provided in the terminal. You will see the Jupyter notebook UI in port 8888.
+
 You should now be able to run the jupyter notebook
