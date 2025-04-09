@@ -14,17 +14,10 @@ In a high level, the project consists of the following steps:<br>
 4. The best performing model will be dissected to interpret what the model is doing and which factors are significant in predicting loan defaults.
 
 # Setup
-The "Loan Default Predictions.ipynb" file was initially run in Python 3.8.8. However, Python 3.8 is already obsolete when I checked on April 9, 2025. So we will use Python 3.10. In this folder is a requirements.txt file, which contains all the libraries needed.
-Run the following in your command line:
-1. sudo apt-get update
-3. sudo apt-get install python3.10 -y
-4. sudo apt-get install pip -y
-5. sudo apt install python3.10-venv
-6. python3 -m venv venv
-7. source venv/bin/activate
-8. pip install -r requirements.txt
-9. pip install notebook==7.4.0
-10. jupyter notebook
-11. Once you run "jupyter notebook", click on the link provided in the terminal. You will see the Jupyter notebook UI in port 8888.
+The "Loan Default Predictions.ipynb" file was initially run in Python 3.8.8. However, Python 3.8 is already obsolete when I checked on April 9, 2025. So we will use Python 3.10. setup.sh downloads the necessary Python packages, gets a virtual environment set up, and runs the jupyter notebook. requirements.txt consists all the Python packages that are needed in this project. The instructions are provided below.
+
+1. Use a linux Ubuntu environment
+1. Run setup.sh
+2. In the terminal, click on the link provided. You will see the Jupyter notebook UI in port 8888.
 
 You should now be able to run the jupyter notebook
