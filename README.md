@@ -14,7 +14,7 @@ In a high level, the project consists of the following steps:<br>
 4. The best performing model will be dissected to interpret what the model is doing and which factors are significant in predicting loan defaults.
 
 # Setup
-This was run in Python 3.8.8. In this folder is a requirements.txt file, which contains all the libraries needed.
+The "Loan Default Predictions.ipynb" file was initially run in Python 3.8.8. However, Python 3.8 is already obsolete when I checked on April 9, 2025. So we will use Python 3.10. In this folder is a requirements.txt file, which contains all the libraries needed.
 Run the following in your command line:
 1. sudo apt-get update
 3. sudo apt-get install python3.10 -y
