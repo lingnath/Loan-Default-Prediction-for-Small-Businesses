@@ -17,10 +17,10 @@ In a high level, the project consists of the following steps:<br>
 This was run in Python 3.8.8. In this folder is a requirements.txt file, which contains all the libraries needed.
 Run the following in your command line:
 1. sudo apt-get update
-3. sudo apt-get install python3.8 -y
+3. sudo apt-get install python3.10 -y
 4. sudo apt-get install pip -y
-5. sudo apt install python3.8-venv
-6. python -m venv venv
+5. sudo apt install python3.10-venv
+6. python3 -m venv venv
 7. source venv/bin/activate
 8. pip install -r requirements.txt
 9. pip install notebook==6.3.0
