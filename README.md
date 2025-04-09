@@ -23,7 +23,7 @@ Run the following in your command line:
 6. python3 -m venv venv
 7. source venv/bin/activate
 8. pip install -r requirements.txt
-9. pip install notebook==6.3.0
+9. pip install notebook==7.4.0
 10. jupyter notebook
 11. Once you run "jupyter notebook", click on the link provided in the terminal. You will see the Jupyter notebook UI in port 8888.
 
