@@ -16,8 +16,8 @@ In a high level, the project consists of the following steps:<br>
 # Setup
 The "Loan Default Predictions.ipynb" file was initially run in Python 3.8.8. However, Python 3.8 is already obsolete when I checked on April 9, 2025. So we will use Python 3.10. setup.sh downloads the necessary Python packages, gets a virtual environment set up, and runs the jupyter notebook. requirements.txt consists all the Python packages that are needed in this project. The instructions are provided below.
 
-1. Use a linux Ubuntu environment
-1. Run setup.sh
-2. In the terminal, click on the link provided. You will see the Jupyter notebook UI in port 8888.
+1. Use a linux Ubuntu environment <br>
+2. Run setup.sh <br>
+3. In the terminal, click on the link provided. You will see the Jupyter notebook UI in port 8888. <br>
 
 You should now be able to run the jupyter notebook
