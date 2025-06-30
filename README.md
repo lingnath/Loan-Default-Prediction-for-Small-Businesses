@@ -13,7 +13,7 @@ The "Loan Default Predictions.ipynb" file was initially run in Python 3.8.8. How
 
 1. Use a linux Ubuntu environment <br>
 2. Run
-```
+```bash
 chmod +x setup.sh
 ./setup.sh
 ```
