@@ -9,7 +9,7 @@ In a high level, the project consists of the following steps:<br>
 4. The best performing model will be dissected to interpret what the model is doing and which factors are significant in predicting loan defaults.
 
 # Setup
-The "Loan Default Predictions.ipynb" file was initially run in Python 3.8.8. However, Python 3.8 is already obsolete when I checked on April 9, 2025. So we will use Python 3.10. setup.sh downloads the necessary Python packages, gets a virtual environment set up, gets the csv file necessary for this project, and runs the jupyter notebook. requirements.txt consists all the Python packages that are needed in this project. The instructions are provided below.
+The "Loan Default Predictions.ipynb" file was initially run in Python 3.8.8. However, Python 3.8 is already obsolete when I checked on April 9, 2025. So we will use Python 3.10. ```setup.sh``` downloads the necessary Python packages, gets a virtual environment set up, gets the csv file necessary for this project, and runs the jupyter notebook. ```requirements.txt``` consists all the Python packages that are needed in this project. The instructions are provided below.
 
 1. Use a linux Ubuntu environment <br>
 2. Run
