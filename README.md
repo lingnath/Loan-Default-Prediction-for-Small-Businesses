@@ -15,7 +15,7 @@ The "Loan Default Predictions.ipynb" file was initially run in Python 3.8.8. How
 2. Run
 ```
 chmod +x setup.sh
-setup.sh
+./setup.sh
 ```
 3. In the terminal, click on the link provided. You will see the Jupyter notebook UI in port 8888. <br>
 
