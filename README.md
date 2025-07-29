@@ -12,7 +12,7 @@ In a high level, the project consists of the following steps:<br>
 The "Loan Default Predictions.ipynb" file was initially run in Python 3.8.8. However, Python 3.8 is already obsolete when I checked on April 9, 2025. So we will use Python 3.10. ```setup.sh``` downloads the necessary Python packages, gets a virtual environment set up, gets the csv file necessary for this project, and runs the jupyter notebook. ```requirements.txt``` consists all the Python packages that are needed in this project. The instructions are provided below.
 
 1. Use a linux Ubuntu environment <br>
-2. Run ```git clone https://github.com/lingnath/Loan-Default-Prediction-for-Small-Businesses.git``` and then go to the folder where ```setup.sh``` resides
+2. In ```/home/ubuntu``` folder, run ```git clone https://github.com/lingnath/Loan-Default-Prediction-for-Small-Businesses.git``` and then go to the folder where ```setup.sh``` resides
 3. Run
 ```bash
 chmod +x setup.sh
